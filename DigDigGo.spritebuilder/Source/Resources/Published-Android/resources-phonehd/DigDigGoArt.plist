@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>DigDigGoArt/background.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {640, 1600}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {640, 1600}}</string>
+			<key>sourceSize</key>
+			<string>{640, 1600}</string>
+		</dict>
+		<key>DigDigGoArt/background2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1015, 1}, {640, 800}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {640, 800}}</string>
+			<key>sourceSize</key>
+			<string>{640, 800}</string>
+		</dict>
+		<key>DigDigGoArt/bush.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{373, 1603}, {640, 69}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {640, 69}}</string>
+			<key>sourceSize</key>
+			<string>{640, 69}</string>
+		</dict>
+		<key>DigDigGoArt/gold2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{373, 1758}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{40, 40}</string>
+		</dict>
+		<key>DigDigGoArt/gold3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{373, 1716}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{40, 40}</string>
+		</dict>
+		<key>DigDigGoArt/ground1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{373, 1674}, {640, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {640, 40}}</string>
+			<key>sourceSize</key>
+			<string>{640, 40}</string>
+		</dict>
+		<key>DigDigGoArt/ground2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2007}, {640, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {640, 40}}</string>
+			<key>sourceSize</key>
+			<string>{640, 40}</string>
+		</dict>
+		<key>DigDigGoArt/pixelbush@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{377, 1904}, {84, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {84, 36}}</string>
+			<key>sourceSize</key>
+			<string>{84, 36}</string>
+		</dict>
+		<key>DigDigGoArt/plant@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{373, 1800}, {32, 38}}</string>
+			<key>offset</key>
+			<string>{0, -16}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 32}, {32, 38}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>DigDigGoArt/rock@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{307, 1861}, {70, 41}}</string>
+			<key>offset</key>
+			<string>{0, -14}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 29}, {70, 41}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>DigDigGoArt/skullart.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1905}, {100, 300}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 300}}</string>
+			<key>sourceSize</key>
+			<string>{100, 300}</string>
+		</dict>
+		<key>DigDigGoArt/skullart2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{205, 1603}, {100, 300}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 300}}</string>
+			<key>sourceSize</key>
+			<string>{100, 300}</string>
+		</dict>
+		<key>DigDigGoArt/skullart3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{103, 1603}, {100, 300}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 300}}</string>
+			<key>sourceSize</key>
+			<string>{100, 300}</string>
+		</dict>
+		<key>DigDigGoArt/skullart4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1603}, {100, 300}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 300}}</string>
+			<key>sourceSize</key>
+			<string>{100, 300}</string>
+		</dict>
+		<key>DigDigGoArt/walk1@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{307, 1775}, {64, 84}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 84}}</string>
+			<key>sourceSize</key>
+			<string>{64, 84}</string>
+		</dict>
+		<key>DigDigGoArt/walk2@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{307, 1603}, {64, 84}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 84}}</string>
+			<key>sourceSize</key>
+			<string>{64, 84}</string>
+		</dict>
+		<key>DigDigGoArt/walk3@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{307, 1689}, {64, 84}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 84}}</string>
+			<key>sourceSize</key>
+			<string>{64, 84}</string>
+		</dict>
+		<key>DigDigGoArt/walk4@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{303, 1905}, {72, 84}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {72, 84}}</string>
+			<key>sourceSize</key>
+			<string>{72, 84}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>textureFileName</key>
+		<string>DigDigGoArt.png</string>
+	</dict>
+</dict>
+</plist>
